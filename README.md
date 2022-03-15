@@ -1,4 +1,5 @@
-# object-volume-calculation-in-image-
+# Simple object volume calculation in image
+
 Project describes a simple methodology that can be adopted in calculating the approximate volume of any object by means of image reference
 
 # Assumptions made :
